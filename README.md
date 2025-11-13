@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 **Sentiment Classification with RNN Architectures**
-### _Comparative Analysis • Homework 3 — NLP • University of Maryland (DATA 643)_
+### _Comparative Analysis • Homework 3 — NLP  • Krishnendra Singh Tomar (121335364) • University of Maryland (DATA 643)_
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch)
@@ -305,16 +305,4 @@ pip install -r requirements.txt
 
 ---
 
-# 🏁 13. Final Notes
 
-This README is designed to satisfy the **full rubric requirements**:
-
-- ✔ Code implementation  
-- ✔ Experimental design  
-- ✔ Results + plots  
-- ✔ Reproducibility  
-- ✔ Documentation clarity  
-
-Your repository and report should now be fully ready for submission.
-
-Good luck — and great work keeping everything clean and reproducible! 🎉
