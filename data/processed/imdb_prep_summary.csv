@@ -1,0 +1,10 @@
+name,class_1,class_0,mean_nonpad_tokens,median_nonpad_tokens,pct_empty,num_examples,TOP_K_requested,vocab_size_including_PAD_OOV
+label_balance_train,12500.0,12500.0,,,,,,
+label_balance_test,12500.0,12500.0,,,,,,
+train_len25,,,24.99128,25.0,0.0,25000.0,,
+test_len25,,,24.99396,25.0,0.0,25000.0,,
+train_len50,,,49.8104,50.0,0.0,25000.0,,
+test_len50,,,49.79812,50.0,0.0,25000.0,,
+train_len100,,,96.33484,100.0,0.0,25000.0,,
+test_len100,,,96.30224,100.0,0.0,25000.0,,
+vocab,,,,,,,10000.0,10000.0

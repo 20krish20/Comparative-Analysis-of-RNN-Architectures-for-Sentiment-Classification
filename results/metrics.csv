@@ -1,0 +1,10 @@
+arch,activation,optimizer,seq_len,clip_grad,accuracy,train_time,checkpoint
+lstm,relu,adam,50,False,0.75584,25.758991956710815,results/model_lstm_relu_adam_len50_clip0.pt
+bilstm,relu,adam,50,False,0.76892,50.66479206085205,results/model_bilstm_relu_adam_len50_clip0.pt
+rnn,relu,adam,50,False,0.50352,11.50281810760498,results/model_rnn_relu_adam_len50_clip0.pt
+lstm,tanh,adam,50,False,0.7566,26.911828994750977,results/model_lstm_tanh_adam_len50_clip0.pt
+lstm,sigmoid,adam,50,False,0.76172,28.15901803970337,results/model_lstm_sigmoid_adam_len50_clip0.pt
+lstm,relu,sgd,50,False,0.51112,23.438429832458496,results/model_lstm_relu_sgd_len50_clip0.pt
+lstm,relu,adam,100,False,0.68236,51.198137044906616,results/model_lstm_relu_adam_len100_clip0.pt
+lstm,relu,adam,25,False,0.71484,15.024549961090088,results/model_lstm_relu_adam_len25_clip0.pt
+lstm,relu,adam,50,True,0.75584,26.340200185775757,results/model_lstm_relu_adam_len50_clip1.pt
