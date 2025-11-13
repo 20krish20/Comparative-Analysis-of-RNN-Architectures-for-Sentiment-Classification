@@ -1,8 +1,16 @@
-# 📘 Homework 3 — NLP: Comparative Analysis of RNN Architectures  
-**Krishnendra Singh Tomar – Data Science (M.S.) – University of Maryland, College Park**
+<div align="center">
+
+# 🎬 **Sentiment Classification with RNN Architectures**
+### _Comparative Analysis • Homework 3 — NLP • University of Maryland (DATA 643)_
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch)
+![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+</div>
 
 ---
-
 # 📌 1. Project Overview
 
 This project performs a **comparative experimental study** of Recurrent Neural Network (RNN) architectures for **binary sentiment classification** on the IMDb movie review dataset (50,000 reviews).
